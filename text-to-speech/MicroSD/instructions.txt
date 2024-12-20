@@ -1,0 +1,10 @@
+For WPA-Personal:
+WPA-PERSONAL
+SSID:InsertHere
+PASSWORD:InsertHere
+
+For WPA-Enterprise:
+WPA-ENTERPRISE
+SSID:InsertHere
+USERNAME:InsertHere
+PASSWORD:InsertHere

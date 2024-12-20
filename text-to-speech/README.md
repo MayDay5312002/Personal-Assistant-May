@@ -1,0 +1,1 @@
+For the audio.h, ensure that you have the ESP32-audioI2S library version 2.0.7. You only need 1 file for text-to-speech, but you need to follow the connections shown in the schema/connection image. NOTE: I used the PlatformIO extension for development for this one. You can install the ESP32-audioI2S there. Just search it up.
