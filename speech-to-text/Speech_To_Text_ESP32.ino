@@ -17,9 +17,6 @@ const char* url2 = "Insert the URL for the API endpoint that will create the mes
 
 
 
-// const char *ssid = "eWiFi"; //home: eWiFi
-// const char *username = "n01501998";
-// const char *password = "eVarretta333"; //home: eVarretta333
 
 // String question;
 
