@@ -6,7 +6,7 @@ One of the API is responsible of returning a new thread, and the other API is re
 
 <h3>Connection/Schema of this system:</h3>
 <img src="Schema_connection.jpg">
-<h2><b>Demo Link: [go](https://youtube.com/shorts/BKbqWCkmIhg?si=BnzSsZCHz6D4yi-C){:target="_blank". } </b></h2>
+<h2><b>Demo Link: https://youtube.com/shorts/BKbqWCkmIhg?si=BnzSsZCHz6D4yi-C</b></h2>
 <em>NOTE: The display is not included in this repository. I have added this feature recently and will probably add it later. Nonetheless, this repo is the version with no display and eyes, and will work. (1/7/2024)</em>
 
 
