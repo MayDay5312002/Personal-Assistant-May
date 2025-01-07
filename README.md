@@ -6,6 +6,6 @@ One of the API is responsible of returning a new thread, and the other API is re
 
 <h3>Connection/Schema of this system:</h3>
 <img src="Schema_connection.jpg">
-<b>Demo Link: https://youtube.com/shorts/BKbqWCkmIhg?si=BnzSsZCHz6D4yi-C</b>
+<h2><b>Demo Link: https://youtube.com/shorts/BKbqWCkmIhg?si=BnzSsZCHz6D4yi-C</b></h2>
 
 
